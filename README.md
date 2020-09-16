@@ -7,7 +7,7 @@ Balanced accuracy score<br>
 .66
 
 Classification Report
-![](RO_classificationReport.png)
+![](readme_images/RO_classificationReport.png)
 
 
 
@@ -18,7 +18,7 @@ Balanced accuracy score<br>
 .658
 
 Classification Report
-![](SMOTE_classificationReport.png)
+![](readme_images/SMOTE_classificationReport.png)
 
 
 #### Undersample using cluster centroids algorithm<br>
@@ -28,7 +28,7 @@ Balanced accuracy score<br>
 .658
 
 Classification Report
-![](cluster_classificationReport.png)
+![](readme_images/cluster_classificationReport.png)
 
 
 #### Combination (Over and Under) Sampling
@@ -38,6 +38,6 @@ Balanced accuracy score
 .55
 
 Classification Report
-![](SMOTEEN_classificationReport.png)
+![](readme_images/SMOTEEN_classificationReport.png)
 
 #### Recommendation
